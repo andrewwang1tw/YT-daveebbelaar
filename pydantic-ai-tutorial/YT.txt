@@ -1,0 +1,2 @@
+How to Build AI Agents with PydanticAI (Beginner Tutorial)
+https://www.youtube.com/watch?v=zcYtSckecD8&t=871s

@@ -1,0 +1,5 @@
+Building AI Agents in Pure Python - Beginner Course
+
+https://www.youtube.com/watch?v=bZzyPscbtI8&t=268s
+
+https://github.com/daveebbelaar/ai-cookbook/tree/main/patterns/workflows

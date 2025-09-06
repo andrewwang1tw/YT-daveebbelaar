@@ -1,0 +1,5 @@
+How to Build Reliable AI Agents in 2025
+
+https://www.youtube.com/watch?v=T1Lowy1mnEg&t=516s 
+
+https://github.com/daveebbelaar/ai-cookbook/tree/main/agents/building-blocks
